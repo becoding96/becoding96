@@ -1,13 +1,3 @@
-### <p align=center>Projects</p>
-
-<div align=center>
-
-[![Funteer](https://github-readme-stats.vercel.app/api/pin/?username=becoding96&repo=funteer)](https://github.com/becoding96/funteer)
-
-</div>
-
-<br>
-
 ### <p align=center>Tech Stack</p>
 
 <div align=center>
