@@ -1,7 +1,5 @@
 ## :smile_cat: Junbong's Github
 
-<br>
-
 ### :rocket: Projects
 
 [![Funteer](https://github-readme-stats.vercel.app/api/pin/?username=becoding96&repo=funteer)](https://github.com/becoding96/funteer)
