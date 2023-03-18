@@ -1,8 +1,16 @@
-### :rocket: Projects
+### <p align=center>Projects</p>
+
+<div align=center>
 
 [![Funteer](https://github-readme-stats.vercel.app/api/pin/?username=becoding96&repo=funteer)](https://github.com/becoding96/funteer)
 
-### :iphone: Tech Stack
+</div>
+
+<br>
+
+### <p align=center>Tech Stack</p>
+
+<div align=center>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becoding96&layout=compact&hide=java)
 
@@ -14,10 +22,24 @@
 
 ![Git](https://img.shields.io/badge/Git-FF7359.svg?&style=for-the-badge&logo=Git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 
-### :chart_with_upwards_trend: Github Stats
+</div>
+
+<br>
+
+### <p align=center>Github Stats</p>
+
+<div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becoding96&theme=cobalt)
 
-### :loop: Baekjoon
+</div>
+
+<br>
+
+### <p align=center>Baekjoon</p>
+
+<div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=becoding)](https://solved.ac/becoding)
+
+</div>
