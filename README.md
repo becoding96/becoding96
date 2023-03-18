@@ -1,8 +1,12 @@
 ## :smile_cat: Junbong's Github
 
+<br>
+
 ### :rocket: Projects
 
 [![Funteer](https://github-readme-stats.vercel.app/api/pin/?username=becoding96&repo=funteer)](https://github.com/becoding96/funteer)
+
+<br>
 
 ### :iphone: Tech Stack
 
@@ -14,9 +18,13 @@
 
 ![Git](https://img.shields.io/badge/Git-FF7359.svg?&style=for-the-badge&logo=Git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 
+<br>
+
 ### :chart_with_upwards_trend: Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=becoding96&theme=cobalt)
+
+<br>
 
 ### :loop: Baekjoon
 
