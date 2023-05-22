@@ -34,7 +34,12 @@
 
 </div>
 
+<br>
 
-[![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=40&userId=3)](https://repomon.kr)
+### <p align=center>Repomon User Card</p>
 
-[![RepomonUserCard](https://repomon.kr/card/user?userId=3)](https://repomon.kr)
+<div align=center>
+
+[![RepomonUserCard](https://repomon.kr/card/user?userId=3)](https://repomon.kr/user/3)
+
+</div>
