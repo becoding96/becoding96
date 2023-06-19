@@ -33,13 +33,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=becoding)](https://solved.ac/becoding)
 
 </div>
-
-<br>
-
-### <p align=center>Repomon User Card</p>
-
-<div align=center>
-
-[![RepomonUserCard](https://repomon.kr/card/user?userId=3)](https://repomon.kr/user/3)
-
-</div>
